@@ -174,16 +174,6 @@ The Light OS shell supports these commands:
 2. **Boot Failure**: Ensure all boot files are in the correct locations
 3. **Keyboard Not Working**: Ensure keyboard input isn't captured by Windows
 
-## Contributing
-
-Contributions are welcome! Here are some areas for improvement:
-
-- Add file content storage functionality
-- Expand shell command capabilities
-- Implement a proper VFS (Virtual File System)
-- Add device drivers
-- Implement multitasking
-
 ## License
 
 MIT License
